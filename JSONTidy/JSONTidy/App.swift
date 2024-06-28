@@ -3,6 +3,7 @@
 //  JSONTidy
 //
 //  Created by syunaeva on 6/27/24.
+// Sample MacOS CLI apps
 //
 
 import Foundation
