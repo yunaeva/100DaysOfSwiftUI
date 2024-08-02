@@ -2,12 +2,12 @@
 //  ContentView.swift
 //  WeSplit
 //
-//  Created by syunaeva on 8/27/23.
+//  Project 1: We Split app
 //
 
 import SwiftUI
 
-struct ContentView: View {
+struct WeSplitMainView: View {
     @State private var checkAmount = 0.0
     @State private var numberOfPeople = 2
     @State private var tipPersentage = 20
@@ -71,5 +71,5 @@ struct ContentView: View {
 }
 
 #Preview {
-    ContentView()
+    WeSplitMainView()
 }
