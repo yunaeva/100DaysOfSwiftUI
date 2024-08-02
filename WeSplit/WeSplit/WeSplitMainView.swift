@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  WeSplit
 //
-//  Project 1: We Split app
+//  Project 1: WeSplit app
 //
 
 import SwiftUI
