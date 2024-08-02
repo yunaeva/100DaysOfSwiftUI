@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  GuessTheFlag
 //
-//  Created by syunaeva on 6/27/24.
+//  Project 2: Guess the flag
 //
 
 import SwiftUI
