@@ -16,6 +16,7 @@
 		8A24603B2C6B3D6000FDAF12 /* BioBlitzUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A24603A2C6B3D6000FDAF12 /* BioBlitzUITestsLaunchTests.swift */; };
 		8A2460482C6B408A00FDAF12 /* Bacteria.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A2460472C6B408A00FDAF12 /* Bacteria.swift */; };
 		8A24604A2C6B42B400FDAF12 /* BacteriaView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A2460492C6B42B400FDAF12 /* BacteriaView.swift */; };
+		8AE774002C6C61F900F6BFAF /* GameBoard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AE773FF2C6C61F900F6BFAF /* GameBoard.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		8A24603A2C6B3D6000FDAF12 /* BioBlitzUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BioBlitzUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		8A2460472C6B408A00FDAF12 /* Bacteria.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Bacteria.swift; sourceTree = "<group>"; };
 		8A2460492C6B42B400FDAF12 /* BacteriaView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BacteriaView.swift; sourceTree = "<group>"; };
+		8AE773FF2C6C61F900F6BFAF /* GameBoard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameBoard.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 			children = (
 				8A24601C2C6B3D5F00FDAF12 /* BioBlitzApp.swift */,
 				8A24601E2C6B3D5F00FDAF12 /* ContentView.swift */,
+				8AE773FF2C6C61F900F6BFAF /* GameBoard.swift */,
 				8A2460472C6B408A00FDAF12 /* Bacteria.swift */,
 				8A2460492C6B42B400FDAF12 /* BacteriaView.swift */,
 				8A2460202C6B3D6000FDAF12 /* Assets.xcassets */,
@@ -267,6 +270,7 @@
 			files = (
 				8A24601F2C6B3D5F00FDAF12 /* ContentView.swift in Sources */,
 				8A24601D2C6B3D5F00FDAF12 /* BioBlitzApp.swift in Sources */,
+				8AE774002C6C61F900F6BFAF /* GameBoard.swift in Sources */,
 				8A2460482C6B408A00FDAF12 /* Bacteria.swift in Sources */,
 				8A24604A2C6B42B400FDAF12 /* BacteriaView.swift in Sources */,
 			);
